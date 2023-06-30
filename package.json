@@ -1,0 +1,18 @@
+{
+  "name": "playground-kill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unocss/autocomplete": "^0.53.4",
+    "@unocss/core": "^0.53.4",
+    "@warp-ds/uno": "1.0.0-alpha.51"
+  }
+}
