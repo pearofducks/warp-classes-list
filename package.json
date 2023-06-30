@@ -1,18 +1,14 @@
 {
-  "name": "playground-kill",
+  "name": "warp-portal-of-unicorns-and-happiness",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "exports": "./index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "@djh",
+  "license": "MIT",
   "dependencies": {
     "@unocss/autocomplete": "^0.53.4",
     "@unocss/core": "^0.53.4",
+    "@warp-ds/component-classes": "1.0.0-alpha.112",
     "@warp-ds/uno": "1.0.0-alpha.51"
   }
 }

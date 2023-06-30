@@ -11,6 +11,9 @@ dependencies:
   '@unocss/core':
     specifier: ^0.53.4
     version: 0.53.4
+  '@warp-ds/component-classes':
+    specifier: 1.0.0-alpha.112
+    version: 1.0.0-alpha.112
   '@warp-ds/uno':
     specifier: 1.0.0-alpha.51
     version: 1.0.0-alpha.51
@@ -36,6 +39,10 @@ packages:
     resolution: {integrity: sha512-/4sbOdyaqJMvFkw1xzo2+h6bZJHw6WCYw1mF+f0ydHzj8ruvwaj9ClDDOweW5cdrk3wzDzRZ6NPRahKqLwv6/Q==}
     dependencies:
       '@unocss/core': 0.50.8
+    dev: false
+
+  /@warp-ds/component-classes@1.0.0-alpha.112:
+    resolution: {integrity: sha512-rMxFwdMVyxbICrXvIBTC3vUoAsKSJZ0VmQwia4H7F3sFqXs754y/4KYrXXFYydd17UpMzAD9OOtIPq70BsHFyw==}
     dev: false
 
   /@warp-ds/uno@1.0.0-alpha.51:
